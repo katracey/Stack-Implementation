@@ -1,0 +1,15 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\151005_Challenge_StackImplementation\151005_Challenge_StackImplementation\bin\Debug\151005_Challenge_StackImplementation.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\151005_Challenge_StackImplementation\151005_Challenge_StackImplementation\obj\Debug\151005_Challenge_StackImplementation.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\151005_Challenge_StackImplementation\151005_Challenge_StackImplementation\bin\Debug\151005_Challenge_StackImplementation.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\151005_Challenge_StackImplementation\151005_Challenge_StackImplementation\bin\Debug\151005_Challenge_StackImplementation.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\151005_Challenge_StackImplementation\151005_Challenge_StackImplementation\obj\Debug\151005_Challenge_StackImplementation.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\151005_Challenge_StackImplementation\151005_Challenge_StackImplementation\obj\Debug\151005_Challenge_StackImplementation.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 5 - Scope, Data Structures II\151005_Challenge_StackImplementation\151005_Challenge_StackImplementation\bin\Debug\151005_Challenge_StackImplementation.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 5 - Scope, Data Structures II\151005_Challenge_StackImplementation\151005_Challenge_StackImplementation\obj\Debug\151005_Challenge_StackImplementation.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 5 - Scope, Data Structures II\151005_Challenge_StackImplementation\151005_Challenge_StackImplementation\obj\Debug\151005_Challenge_StackImplementation.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week5 - Scope, Data Structures II\151005_Challenge_StackImplementation\151005_Challenge_StackImplementation\bin\Debug\151005_Challenge_StackImplementation.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week5 - Scope, Data Structures II\151005_Challenge_StackImplementation\151005_Challenge_StackImplementation\obj\Debug\151005_Challenge_StackImplementation.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week5 - Scope, Data Structures II\151005_Challenge_StackImplementation\151005_Challenge_StackImplementation\obj\Debug\151005_Challenge_StackImplementation.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week5 - Scope, Data Structures II\151005_Challenge_StackImplementation\151005_Challenge_StackImplementation\bin\Debug\151005_Challenge_StackImplementation.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week5 - Scope, Data Structures II\151005_Challenge_StackImplementation\151005_Challenge_StackImplementation\bin\Debug\151005_Challenge_StackImplementation.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week5 - Scope, Data Structures II\151005_Challenge_StackImplementation\151005_Challenge_StackImplementation\obj\Debug\151005_Challenge_StackImplementation.csprojResolveAssemblyReference.cache
